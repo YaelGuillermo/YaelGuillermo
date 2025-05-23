@@ -4,40 +4,89 @@
 <div align="center">
   
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
-  ⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⠿⠛⠛⠛⠻⠿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀  
-  ⠀⠀⠀⠀⠀⠀⢠⣾⣿⠟⠉⠀⠀⢀⣤⣶⣶⣶⣶⣶⣤⣄⠀⠀⠈⠙⢿⣷⣄⠀⠀⠀⠀  
-  ⠀⠀⠀⠀⠀⣰⣿⠏⠀⠀⠀⣠⣾⡿⠛⠉⠀⠀⠀⠉⠛⢿⣷⣄⠀⠀⠀⠙⣿⣧⠀⠀⠀  
-  ⠀⠀⠀⠀⣼⣿⡇⠀⠀⠀⣼⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⡄⠀⠀⠀⢸⣿⣿⡄⠀  
-  ⠀⠀⣠⣿⡿⠋⠀⠀⠀⠀⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠃⠀⠀⠀⠀⠙⢿⣿⣄  
-  ⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁  
+  ⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⠿⠛⠛⠛⠻⠿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀  
+  ⠀⠀⠀⠀⢠⣾⣿⠟⠉⠀⠀⢀⣤⣶⣶⣶⣶⣶⣤⣄⠀⠀⠈⠙⢿⣷⣄⠀⠀⠀⠀⠀  
+  ⠀⠀⠀⣰⣿⠏⠀⠀⠀⣠⣾⡿⠛⠉⠀⠀⠀⠉⠛⢿⣷⣄⠀⠀⠀⠙⣿⣧⠀⠀⠀⠀  
+  ⠀⠀⣼⣿⡇⠀⠀⠀⣼⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⡄⠀⠀⠀⢸⣿⣿⡄⠀⠀  
+  ⣠⣿⡿⠋⠀⠀⠀⠀⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠃⠀⠀⠀⠀⠙⢿⣿⣄⠀  
+  ⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁  
 
-  # Welcome to My Parallel Universe
-  **Code, caffeine, and full-stack spells.**
+  <h1 align="center">Welcome to My Parallel Universe</h1>
+  <p align="center"><b>Code, caffeine & full-stack spells.</b></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Full--Stack-Jedi-informational?style=flat&logo=javascript&color=blueviolet" />
+    <img src="https://img.shields.io/badge/Backend-Django|NestJS|Laravel-4B8BBE" />
+    <img src="https://img.shields.io/badge/Frontend-React|Vue-informational?logo=react" />
+  </p>
 </div>
 
 ---
 
 ## ⏳ Who Am I?
 
-> Somewhere in a not-so-distant repository...  
-> A **full-stack developer** emerged with a passion for elegant logic and chaotic creativity.  
-> Not only does the code compile — it **transcends**.
+> Somewhere in a not-so-distant repository...
 
-- 🧠 Mindset: `async/await`
-- ⚙️ Debugs like a wizard with breakpoints
-- 🧩 Fluent in both frontend dreams and backend beasts
-- ☕ Powered by dark roast and bright ideas
+**A digital alchemist** blending logic, UI/UX sorcery, and backend black magic.  
+From server-side scrolls to pixel-perfect portals — my passion is building beyond syntax.
+
+- 🧠 **Mindset:** `async/await` & `test-driven`
+- ⚙️ **Debugging:** Like a wizard with breakpoints and logs
+- 🧩 **Fluency:** Frontend fantasies and backend beasts
+- ☕ **Fuel:** Dark roast. Bright ideas. Late commits.
 
 ---
 
-## 🚀 Tech Stack (a.k.a. My Arsenal)
+## 🚀 Tech Stack: The Arsenal
 
-```yaml
-Backend:
-  - Django (The pythonic fortress)
-  - NestJS (TypeScript at its best)
-  - Laravel (PHP magic refined)
+### Backend
+- **Django** — The Pythonic fortress
+- **NestJS** — TypeScript architecture, elegant and scalable
+- **Laravel** — Modern PHP, artisan-crafted
 
-Frontend:
-  - React (state of art)
-  - Vue (progressively epic)
+### Frontend
+- **React** — Hooks, state, and VDOM wizardry
+- **Vue** — The progressive elegance
+
+### DevOps & Tools
+- **Docker**, **GitHub Actions**, **Nginx**
+- **PostgreSQL**, **Redis**
+- **CI/CD pipelines** like clockwork
+
+### Languages
+- `JavaScript`, `Python`, `TypeScript`, `PHP`, `SQL`
+
+---
+
+## ✨ Projects & Portals
+
+| Project | Stack | Description |
+|--------|--------|-------------|
+| **Mythos API** | Django + DRF | A RESTful fantasy world generator with real-time lore crafting |
+| **NebulaNotes** | React + NestJS | Collaborative markdown notebook with cosmic themes |
+| **CraftCommerce** | Laravel + Vue | A minimalist eCommerce engine powered by spells and sales |
+
+---
+
+## 🧭 Let's Navigate
+
+- [Portfolio Website](https://yourwebsite.com)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter / X](https://twitter.com/yourhandle)
+- [Dev.to](https://dev.to/yourhandle)
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p>
+
+---
+
+> “The only way to do great work is to love what you do — and commit it.”  
+> — Me, while pushing at 2:47 AM
+
+---
+
