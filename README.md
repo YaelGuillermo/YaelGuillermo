@@ -71,7 +71,6 @@ From server-side scrolls to pixel-perfect portals — my passion is building bey
 
 - [Portfolio Website](https://yourwebsite.com)
 - [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter / X](https://twitter.com/yourhandle)
 - [Dev.to](https://dev.to/yourhandle)
 
 ---
