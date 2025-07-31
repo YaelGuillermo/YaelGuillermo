@@ -84,6 +84,21 @@ From server-side scrolls to pixel-perfect portals — my passion is building bey
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+⚡ Activity Sparklines
+https://github-readme-activity-graph.vercel.app/graph?username=YaelGuillermo&theme=react-dark&hide_border=true&area=true
+
+🏆 Trophy Case
+https://github-profile-trophy.vercel.app/?username=YaelGuillermo&theme=onedark&row=2&column=4&margin-w=15&margin-h=15
+
+📅 Contribution Heatmap
+https://github-readme-streak-stats.herokuapp.com/?user=YaelGuillermo&theme=radical&hide_border=true&date_format=M%2520j%255B%252C%2520Y%255D
+</div>
+
+---
+
 > “The only way to do great work is to love what you do — and commit it.”  
 > — Me, while pushing at 2:47 AM
 
