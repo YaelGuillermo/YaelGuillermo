@@ -15,7 +15,7 @@
   <p align="center"><b>Code, caffeine & full-stack spells.</b></p>
   <p align="center">
     <img src="https://img.shields.io/badge/Full--Stack-Jedi-informational?style=flat&logo=javascript&color=blueviolet" />
-    <img src="https://img.shields.io/badge/Backend-Django|NestJS|Laravel-4B8BBE" />
+    <img src="https://img.shields.io/badge/Backend-Django|NestJS|Laravel|Spring Boot-4B8BBE" />
     <img src="https://img.shields.io/badge/Frontend-React|Vue-informational?logo=react" />
   </p>
 </div>
@@ -31,7 +31,7 @@ From server-side scrolls to pixel-perfect portals — my passion is building bey
 
 - 🧠 **Mindset:** `async/await` & `test-driven`
 - ⚙️ **Debugging:** Like a wizard with breakpoints and logs
-- 🧩 **Fluency:** Frontend fantasies and backend beasts
+- 🧩 **Fluency:** Frontend fantasies and backend beasts (Java included!)
 - ☕ **Fuel:** Dark roast. Bright ideas. Late commits.
 
 ---
@@ -42,7 +42,7 @@ From server-side scrolls to pixel-perfect portals — my passion is building bey
 - **Django** — The Pythonic fortress
 - **NestJS** — TypeScript architecture, elegant and scalable
 - **Laravel** — Modern PHP, artisan-crafted
-- **Spring Boot** - Java mindset
+- **Spring Boot** — Enterprise-grade Java magic
 
 ### Frontend
 - **React** — Hooks, state, and VDOM wizardry
@@ -54,7 +54,7 @@ From server-side scrolls to pixel-perfect portals — my passion is building bey
 - **CI/CD pipelines** like clockwork
 
 ### Languages
-- `JavaScript`, `Python`, `C#`, `TypeScript`, `PHP`, `SQL`
+- `JavaScript`, `Python`, `Java`, `TypeScript`, `PHP`, `SQL`
 
 ---
 
@@ -65,6 +65,7 @@ From server-side scrolls to pixel-perfect portals — my passion is building bey
 | **Mythos API** | Django + DRF | A RESTful fantasy world generator with real-time lore crafting |
 | **NebulaNotes** | React + NestJS | Collaborative markdown notebook with cosmic themes |
 | **CraftCommerce** | Laravel + Vue | A minimalist eCommerce engine powered by spells and sales |
+| **LegacyForge** | Spring Boot + Thymeleaf | Enterprise Java monolith turned modern microservice |
 
 ---
 
@@ -86,7 +87,4 @@ From server-side scrolls to pixel-perfect portals — my passion is building bey
 ---
 
 > “The only way to do great work is to love what you do — and commit it.”  
-> — Me, while pushing at 2:47 AM
-
----
-
+> — Me, while pushing at 2:47 AM (probably fixing a Java NPE)
