@@ -17,6 +17,9 @@
     <img src="https://img.shields.io/badge/Full--Stack-Jedi-informational?style=flat&logo=javascript&color=blueviolet" />
     <img src="https://img.shields.io/badge/Backend-Django|NestJS|Laravel|Spring Boot-4B8BBE" />
     <img src="https://img.shields.io/badge/Frontend-React|Vue-informational?logo=react" />
+    <samp style="color: #4ade80; font-family: monospace; font-size: 0.9em;">
+      ~/universe$ git commit -m "feat: reality distortion field activated"
+    </samp>
   </p>
 </div>
 
