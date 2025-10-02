@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Frontend-React|Vue-informational?logo=react" />
   </p>
   <p align="center">
-    <samp style="color: #4ade80; font-family: monospace; font-size: 0.9em;">
+    <samp style="color: #4ade80; font-family: monospace; font-size: 0.8em;">
       ~/universe$ git commit -m "feat: reality distortion field activated"
     </samp>
   </p>
