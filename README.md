@@ -78,7 +78,6 @@ From server-side scrolls to pixel-perfect portals — my passion is building bey
 
 - [Portfolio Website](https://yaelgonzalez.netlify.app)
 - [LinkedIn](https://linkedin.com/in/yaelgonzalez)
-- [Dev.to](https://dev.to/yaelgonzalez)
 
 ---
 
