@@ -46,8 +46,8 @@ From server-side scrolls to pixel-perfect portals — my passion is building bey
 ### Backend
 - **Django** — The Pythonic fortress
 - **NestJS** — TypeScript architecture, elegant and scalable
-- **Laravel** — Modern PHP, artisan-crafted
 - **Spring Boot** — Enterprise-grade Java magic
+- **Laravel** — Modern PHP, artisan-crafted
 
 ### Frontend
 - **React** — Hooks, state, and VDOM wizardry
