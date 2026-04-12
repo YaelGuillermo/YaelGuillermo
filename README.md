@@ -59,7 +59,7 @@ From server-side scrolls to pixel-perfect portals — my passion is building bey
 - **CI/CD pipelines** like clockwork
 
 ### Languages
-- `Java`, `Python`, `C#`, `TypeScript`, `PHP`
+- `Java`, `Python`, `TypeScript`, `C#`, `PHP`
 
 ---
 
