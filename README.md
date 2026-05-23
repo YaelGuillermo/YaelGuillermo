@@ -35,8 +35,8 @@
 From server-side scrolls to pixel-perfect portals — my passion is building beyond syntax.
 
 - 🧠 **Mindset:** `async/await` & `test-driven`
-- ⚙️ **Debugging:** Like a wizard with breakpoints and logs. 
-- 🧩 **Fluency:** Frontend fantasies and backend beasts. 
+- ⚙️ **Debugging:** Like a wizard with breakpoints and logs.
+- 🧩 **Fluency:** Backend beasts and frontend fantasies.
 - ☕ **Fuel:** Dark roast. Bright ideas. Late commits.
 
 ---
